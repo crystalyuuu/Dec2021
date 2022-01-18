@@ -5,6 +5,7 @@ using OpenQA.Selenium.Chrome;
 using System;
 using System.Collections.Generic;
 using System.Text;
+#nullable disable
 
 namespace Dec2021.Utilities
 {
